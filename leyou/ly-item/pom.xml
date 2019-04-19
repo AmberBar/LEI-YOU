@@ -15,4 +15,5 @@
         <module>ly-item-interface</module>
         <module>ly-item-service</module>
     </modules>
+
 </project>
