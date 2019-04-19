@@ -1,0 +1,6 @@
+2019/04/19 14:14:10 [error] 28156#15928: *1 CreateFile() "E:\BaiduNetdiskDownload\nginx-1.14.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "manage.leyou.com", referrer: "http://manage.leyou.com/"
+2019/04/19 14:14:43 [emerg] 20956#54160: invalid URL prefix in E:\BaiduNetdiskDownload\nginx-1.14.2/conf/nginx.conf:46
+2019/04/19 14:15:02 [emerg] 46840#17664: invalid URL prefix in E:\BaiduNetdiskDownload\nginx-1.14.2/conf/nginx.conf:46
+2019/04/19 14:15:55 [emerg] 26900#7364: invalid URL prefix in E:\BaiduNetdiskDownload\nginx-1.14.2/conf/nginx.conf:46
+2019/04/19 14:16:15 [emerg] 42820#52904: unexpected "}" in E:\BaiduNetdiskDownload\nginx-1.14.2/conf/nginx.conf:49
+2019/04/19 14:17:00 [notice] 50572#24764: signal process started
